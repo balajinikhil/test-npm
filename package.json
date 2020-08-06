@@ -1,0 +1,13 @@
+{
+    "name": "@balajinikhil/test",
+    "version": "2.0.0",
+    "description": "Removes all spaces from a string",
+    "main": "index.js",
+    "repository": "https://github.com/balajinikhil/test-npm",
+    "keywords": [
+        "tiny",
+        "npm",
+        "package",
+        "bamblehorse"
+    ]
+}
